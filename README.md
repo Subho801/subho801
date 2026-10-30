@@ -98,18 +98,26 @@
 <div align="center">
 
 <a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
-  <img src="https://steamcard.site/badge/76561199403197353" alt="Steam Profile" />
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199403197353&show_recent_game_bg=true" alt="Steam Profile" />
 </a>
 
 </div>
 
 ---
 
-## 🎵 Last.fm Scrobbler
+## 🎵 Last.fm Statistics
 
 <div align="center">
 
-<a href="https://www.last.fm/user/Subho_X">
+<!-- Full Stats Card showing Total Scrobbles, Top Artists, etc. -->
+<a href="https://www.last.fm/user/Subho_X" target="_blank">
+  <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Subho_X&theme=dark&show_scrobbles=true" alt="Last.fm Profile Stats" />
+</a>
+
+<br/><br/>
+
+<!-- Recent Scrobble Card -->
+<a href="https://www.last.fm/user/Subho_X" target="_blank">
   <img src="https://lastfm-recently-played.vercel.app/api?user=Subho_X&count=2" alt="Last.fm Recent Tracks" />
 </a>
 
