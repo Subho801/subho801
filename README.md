@@ -78,13 +78,12 @@
 
 ---
 
-## 🎬 Videos & Edits
-
 <div align="center">
 
 <img src="./assets/Video%20Project%206.webp" width="550" style="border-radius: 12px;" alt="Cristiano Ronaldo Edit" />
 
-<p><em>⚽ "Siuuu!"</em></p>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1000&color=2EA043&center=true&vCenter=true&width=450&lines=%22In+my+mind%2C+I+am+always+the+best.%22" alt="Quote" />
 
 </div>
 
