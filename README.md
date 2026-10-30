@@ -105,20 +105,18 @@
 
 ---
 
-## 🎵 Last.fm Statistics
+## 🎵 Music & Scrobbler
 
 <div align="center">
 
-<!-- Full Stats Card showing Total Scrobbles, Top Artists, etc. -->
 <a href="https://www.last.fm/user/Subho_X" target="_blank">
-  <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Subho_X&theme=dark&show_scrobbles=true" alt="Last.fm Profile Stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=d51007&label=Total%20Scrobbles&query=%24.user.playcount&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getinfo%26user%3DSubho_X%26api_key%3D4a9f5581a9dac20a62d340ccea3027b8%26format%3Djson&logo=last.fm&logoColor=white&style=for-the-badge" alt="Total Scrobbles" />
 </a>
 
 <br/><br/>
 
-<!-- Recent Scrobble Card -->
 <a href="https://www.last.fm/user/Subho_X" target="_blank">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Subho_X&count=2" alt="Last.fm Recent Tracks" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Subho_X&count=3" alt="Last.fm Recent Tracks" />
 </a>
 
 </div>
