@@ -82,12 +82,11 @@
 
 <div align="center">
 
-<!-- GitHub markdown doesn't support raw mp4 embedding, so use an optimized GIF or a clickable preview poster linking to YouTube/TikTok/Drive -->
-<a href="https://www.youtube.com" target="_blank">
-  <img src="https://media.giphy.com/media/r1IMdmkhUcpzy/giphy.gif" alt="Cristiano Ronaldo Edit" width="550" style="border-radius: 10px;" />
+<a href="https://files.catbox.moe/nd82n7.mp4" target="_blank">
+  <img src="https://files.catbox.moe/vd742i.webp" width="550" style="border-radius: 12px;" alt="Cristiano Ronaldo Edit" />
 </a>
 
-<p><em>⚽ "Siuuu!" — Tap the edit to watch full clip</em></p>
+<p><em>⚽ "Siuuu!" — Click to open original video with audio</em></p>
 
 </div>
 
