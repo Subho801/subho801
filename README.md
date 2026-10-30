@@ -115,36 +115,43 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://buymeacoffee.com/YOUR_USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-      </a>
-      <br/><br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://buymeacoffee.com/YOUR_USERNAME" alt="BMC QR" />
-    </td>
-    <td align="center" width="25%">
-      <a href="https://paypal.me/YOUR_USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/Donate%20with-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-      </a>
-      <br/><br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://paypal.me/YOUR_USERNAME" alt="PayPal QR" />
-    </td>
-    <td align="center" width="25%">
-      <a href="https://buy.stripe.com/YOUR_LINK" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-      </a>
-      <br/><br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://buy.stripe.com/YOUR_LINK" alt="Stripe QR" />
-    </td>
-    <td align="center" width="25%">
-      <a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
-      </a>
-      <br/><br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://ko-fi.com/YOUR_USERNAME" alt="Ko-fi QR" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center" width="33%">Buy Me a Coffee</th>
+      <th align="center" width="33%">PayPal</th>
+      <th align="center" width="33%">Ko-fi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://buymeacoffee.com/subho" target="_blank">
+          <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.paypal.com/paypalme/subhoxcr7" target="_blank">
+          <img src="https://img.shields.io/badge/DONATE_WITH-PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://ko-fi.com/subho7" target="_blank">
+          <img src="https://img.shields.io/badge/SUPPORT-KO--FI-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://buymeacoffee.com/subho" width="130" height="130" alt="BMC QR" />
+      </td>
+      <td align="center">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.paypal.com/paypalme/subhoxcr7" width="130" height="130" alt="PayPal QR" />
+      </td>
+      <td align="center">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://ko-fi.com/subho7" width="130" height="130" alt="Ko-fi QR" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
