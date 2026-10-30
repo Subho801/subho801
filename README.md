@@ -95,7 +95,7 @@
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
-    <img src="https://my-steam.suzuki3.jp/api/card?id=76561199403197353&size=small" alt="Steam Games" />
+    <img src="https://steam-widget.com/widget/img?id=76561199403197353&theme=midnight&width=650" alt="Steam Stats" />
   </a>
 </div>
 
