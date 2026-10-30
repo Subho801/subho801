@@ -82,15 +82,11 @@
 
 <div align="center">
 
-<a href="https://files.catbox.moe/nd82n7.mp4" target="_blank">
-  <img src="https://files.catbox.moe/vd742i.webp" width="550" style="border-radius: 12px;" alt="Cristiano Ronaldo Edit" />
-</a>
+<img src="./assets/Video%20Project%206.webp" width="550" style="border-radius: 12px;" alt="Cristiano Ronaldo Edit" />
 
-<p><em>⚽ "Siuuu!" — Click to open original video with audio</em></p>
+<p><em>⚽ "Siuuu!"</em></p>
 
 </div>
-
----
 
 ## 🎮 Steam Profile
 
