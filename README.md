@@ -105,18 +105,11 @@
 
 ---
 
-## 🎵 Music & Scrobbler
 
 <div align="center">
 
-<a href="https://www.last.fm/user/Subho_X" target="_blank">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Subho_X&count=3" alt="Music Stats" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.last.fm/user/Subho_X" target="_blank">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Subho_X&count=3" alt="Last.fm Recent Tracks" />
+<a href="https://www.last.fm/user/subho_x" target="_blank">
+  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=subho_x&footer=stats" alt="Last.fm Recently Played" />
 </a>
 
 </div>
