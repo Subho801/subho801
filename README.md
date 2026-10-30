@@ -103,6 +103,12 @@
 
 </div>
 
+<div align="center">
+  <a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
+    <img src="https://my-steam.suzuki3.jp/api/card?id=76561199403197353&size=medium" alt="Steam Profile" />
+  </a>
+</div>
+
 ---
 
 ## 🎵 Last.fm Statistics
