@@ -97,9 +97,8 @@
 
 <div align="center">
 
-<!-- Replace 76561198000000000 with your numeric SteamID64 -->
-<a href="https://steamcommunity.com">
-  <img src="https://steam-profile-badge.herokuapp.com/76561199403197353" alt="Steam Profile" />
+<a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
+  <img src="https://steamcard.site/badge/76561199403197353" alt="Steam Profile" />
 </a>
 
 </div>
@@ -110,9 +109,8 @@
 
 <div align="center">
 
-<!-- Replace Subho801 with your Last.fm username -->
 <a href="https://www.last.fm/user/Subho_X">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Subho801&count=2" alt="Last.fm Recent Tracks" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Subho_X&count=2" alt="Last.fm Recent Tracks" />
 </a>
 
 </div>
