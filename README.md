@@ -93,10 +93,14 @@
 
 ---
 
+## 🎮 Steam Profile
+
 <div align="center">
-  <a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
-    <img src="https://steam-widget.com/widget/img?id=76561199403197353&theme=midnight&width=650" alt="Steam Stats" />
-  </a>
+
+<a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199403197353&show_recent_game_bg=true&show_in_game_bg=true" alt="Steam Profile" />
+</a>
+
 </div>
 
 ---
