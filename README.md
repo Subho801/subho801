@@ -26,6 +26,20 @@
 
 ---
 
+## 💬 Connect with me
+
+<div align="center">
+
+<a href="https://discord.com/users/1290236398540034048">
+  <img src="https://lanyard.cnrad.dev/api/1290236398540034048?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord presence" />
+</a>
+
+*Don't share a server with me? Click the card to open my Discord profile.*
+
+</div>
+
+---
+
 ## 🛠️ Tech I use
 
 <div align="center">
