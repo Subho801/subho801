@@ -93,14 +93,10 @@
 
 ---
 
-## 🎮 Steam Profile
-
 <div align="center">
-
-<a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199403197353&show_recent_game_bg=true" alt="Steam Profile" />
-</a>
-
+  <a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
+    <img src="https://my-steam.suzuki3.jp/api/card?id=76561199403197353&size=small" alt="Steam Games" />
+  </a>
 </div>
 
 ---
