@@ -50,7 +50,6 @@
 
 ---
 
-## 🐍 Contribution snake
 
 <div align="center">
 
@@ -64,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+
 
 <div align="center">
 
@@ -91,7 +90,7 @@
 
 </div>
 
-## 🎮 Steam Profile
+
 
 <div align="center">
 
