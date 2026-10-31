@@ -1,5 +1,9 @@
 <!-- Save this as README.md in a PUBLIC repo named exactly: Subho801 -->
+<div align="center">
 
+<img src="https://count.getloli.com/get/@Subho801?theme=rule34" alt="Visitors" />
+
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:2ea043&height=200&section=header&text=Subho&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=I%20make%20things%20look%20pretty%20and%20(sometimes)%20work%20too&descSize=18&descAlignY=60" alt="header" />
