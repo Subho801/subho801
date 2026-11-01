@@ -38,14 +38,26 @@
 
 <div align="center">
 
+<!-- Movies (Letterboxd) -->
 <a href="https://letterboxd.com/Subho_X" target="_blank">
-  <img src="https://subho.site/api/letterboxd-card?v=2" alt="What I'm Watching" />
+  <img src="https://subho.site/api/letterboxd-card?v=2" alt="Letterboxd Movies" />
+</a>
+
+<br/><br/>
+
+<!-- TV Shows (Serializd) -->
+<a href="https://www.serializd.com" target="_blank">
+  <img src="https://subho.site/api/serializd-card?v=1" alt="Serializd TV Shows" />
 </a>
 
 <br/><br/>
 
 <a href="https://letterboxd.com/Subho_X" target="_blank">
   <img src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.serializd.com" target="_blank">
+  <img src="https://img.shields.io/badge/Serializd-2EA043?style=for-the-badge&logo=trakt&logoColor=white" alt="Serializd" />
 </a>
 
 </div>
