@@ -49,7 +49,13 @@
 </div>
 
 ---
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pixel-cat.gif" width="100" alt="Pixel Cat" />
+
+</div>
+
+---
 
 <div align="center">
 
