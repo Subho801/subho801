@@ -42,6 +42,12 @@
   <img src="https://subho.site/api/letterboxd-card" alt="What I'm Watching" />
 </a>
 
+<br/><br/>
+
+<a href="https://letterboxd.com/Subho_X" target="_blank">
+  <img src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+</a>
+
 </div>
 
 ---
