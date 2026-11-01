@@ -39,7 +39,7 @@
 <div align="center">
 
 <a href="https://letterboxd.com/Subho_X" target="_blank">
-  <img src="https://subho.site/api/letterboxd-card" alt="What I'm Watching" />
+  <img src="https://subho.site/api/letterboxd-card?v=1" alt="What I'm Watching" />
 </a>
 
 <br/><br/>
