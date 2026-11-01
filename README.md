@@ -166,18 +166,6 @@
 </div>
 
 ---
-<div align="center">
-
-<a href="https://github.com/Subho801?tab=followers">
-  <img src="https://img.shields.io/github/followers/Subho801?label=Follow%20%40Subho801&style=for-the-badge&logo=github&color=2ea043&logoColor=white" alt="Follow" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Subho801/Subho801/stargazers">
-  <img src="https://img.shields.io/github/stars/Subho801/Subho801?label=Star%20Repo&style=for-the-badge&logo=apachespark&color=2ea043&logoColor=white" alt="Star" />
-</a>
-
-</div>
----
 
 <div align="center">
 
