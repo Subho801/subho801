@@ -34,18 +34,6 @@
 
 ---
 
-<div align="center">
-
-<a href="https://subho.site" target="_blank">
-  <img src="./assets/website-preview.png" width="600" style="border-radius: 12px;" alt="subho.site Preview" />
-</a>
-
-<p><em>🌐 Click the card to visit <strong>subho.site</strong></em></p>
-
-</div>
-
----
-
 ## 🛠️ Tech I use
 
 <div align="center">
