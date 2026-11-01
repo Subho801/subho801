@@ -33,12 +33,14 @@
 </div>
 
 ---
+
 <div align="center">
 
 <a href="https://subho.site" target="_blank">
-  <img src="https://img.shields.io/badge/subho.site-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2ea043" alt="Website" />
-  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=2ea043&up_message=online&url=https%3A%2F%2Fsubho.site&style=for-the-badge" alt="Website Status" />
+  <img src="./assets/website-preview.png" width="600" style="border-radius: 12px;" alt="subho.site Preview" />
 </a>
+
+<p><em>🌐 Click the card to visit <strong>subho.site</strong></em></p>
 
 </div>
 
