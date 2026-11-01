@@ -33,6 +33,15 @@
 </div>
 
 ---
+<div align="center">
+
+<a href="https://subho.site" target="_blank">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fsubho.site&screenshot=true&meta=false&embed=screenshot.url" width="600" style="border-radius: 12px;" alt="Live Website Preview" />
+</a>
+
+</div>
+
+---
 
 ## 🛠️ Tech I use
 
