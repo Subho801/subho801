@@ -94,7 +94,23 @@
 </a>
 
 </div>
+---
 
+## 🎮 What I Like to Play
+
+<div align="center">
+
+<a href="https://steamcommunity.com/profiles/76561199403197353" target="_blank">
+  <img src="https://my-steam.suzuki3.jp/api/card?id=76561199403197353&size=small" alt="Steam Games" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.backloggd.com" target="_blank">
+  <img src="https://img.shields.io/badge/Backloggd-84B700?style=for-the-badge&logo=retroarch&logoColor=white" alt="Backloggd" />
+</a>
+
+</div>
 ---
 
 
