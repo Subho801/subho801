@@ -39,11 +39,10 @@
 <div align="center">
 
 <a href="https://letterboxd.com/Subho_X" target="_blank">
-  <img src="https://letterboxd-readme.vercel.app/api?username=Subho_X&theme=dark" alt="Letterboxd Recent Movies" />
+  <img src="https://subho.site/api/letterboxd-card" alt="What I'm Watching" />
 </a>
 
 </div>
-
 ---
 
 <div align="center">
