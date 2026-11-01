@@ -28,7 +28,7 @@
   <img src="https://lanyard.cnrad.dev/api/1290236398540034048?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord presence" />
 </a>
 
-*Don't share a server with me? Click the card to open my Discord profile.*
+*Click the card to open my Discord profile.*
 
 </div>
 
@@ -36,7 +36,8 @@
 <div align="center">
 
 <a href="https://subho.site" target="_blank">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Fsubho.site&screenshot=true&meta=false&embed=screenshot.url" width="600" style="border-radius: 12px;" alt="Live Website Preview" />
+  <img src="https://img.shields.io/badge/subho.site-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2ea043" alt="Website" />
+  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=2ea043&up_message=online&url=https%3A%2F%2Fsubho.site&style=for-the-badge" alt="Website Status" />
 </a>
 
 </div>
